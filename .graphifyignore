@@ -1,0 +1,15 @@
+# Dependencias y entornos
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+# Salidas de build
+.next/
+dist/
+build/
+out/
+coverage/
+
+# Salida de graphify
+graphify-out/
